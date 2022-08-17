@@ -1,3 +1,8 @@
+USE MASTER
+GO
+
+CREATE DATABASE POSPRODUCTOSAND
+GO
 
 --Creacion de Tablas
 
